@@ -20,8 +20,17 @@ spec:
               name: config-demo
               key: db_password
     
+<<<<<<< HEAD
 i am in bangalore as of now
 today is monday
 apples are good for health
 demo for monday
 this is august month
+=======
+i am in bangalore as of no
+apples are good for health
+demo for monday
+this is august month
+123456789
+123456789
+>>>>>>> b58b7b9810b84a4a5dd72aee2d1a46a2f5d386b0
